@@ -32,4 +32,4 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 ---
 
 ## 🔗 Conecte-se Comigo
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-soares-linkedin/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/alexandre-soares-73b306245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
