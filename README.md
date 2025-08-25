@@ -3,7 +3,7 @@
 # Olá, eu sou [Alexandre - Soares]! 👋
 
 ## 🚀 Sobre mim
-Eu sou um [Desenvolvedor/Área de Atuação], . Atualmente, estou focado em um projeto pessoal/colaborativo [CRM - Administrador de condóminos - (Assosiação de Moradores)].
+Eu sou um [Desenvolvedor/Estagiário em T.I], . Atualmente, estou focado em um projeto pessoal/colaborativo [CRM - Administrador de condóminos - (Assosiação de Moradores)].
 
 - 🔭 Atualmente estou trabalhando em [CRM - Adminstrador de Condóminos]
 - 🌱 Estou aprendendo [C#, JAVA, SPRINGBOOT, SQL]
